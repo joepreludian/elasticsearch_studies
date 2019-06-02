@@ -17,7 +17,9 @@ For running the stack, please do:
 * Clone this repo (or download the zip and unzip it);
 * Enter inside the directory of this repo and run;
 
-    $ docker-compose up
+```
+$ docker-compose up
+```
 
 It will create the needed containers, volumes and networks used by docker and it output would be echoed on terminal.
 To finish the work, shutdowning the process, just hit a `Ctrl + C` and the containers would be stopped;
