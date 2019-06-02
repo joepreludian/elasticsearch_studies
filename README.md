@@ -25,3 +25,6 @@ It will create the needed containers, volumes and networks used by docker and it
 To finish the work, shutdowning the process, just hit a `Ctrl + C` and the containers would be stopped;
 
 If you wish to not see the output messages, you can trigger the containers in background appending a `-d` param just after the `docker-compose up` command.
+
+# Presentation
+This repo has been created for the ElasticSearch Meetup (in portuguese): [Google Slides](https://docs.google.com/presentation/d/1mLYXg-8tOhDj6QjBMzygQo50n4KGUerJE7oy5e5X9gY/edit?usp=sharing)
